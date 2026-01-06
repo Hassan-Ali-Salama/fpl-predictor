@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pkl
+*.csv
+bootstrap.json
+bootstrap_data.json
+current_gw.txt
+*.csv
+players_features.*
+global_dataset.*
+training_data.*
